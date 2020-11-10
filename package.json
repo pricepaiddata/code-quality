@@ -1,5 +1,5 @@
 {
-  "name": "code-quality",
+  "name": "pricepaiddata-code-quality",
   "version": "0.0.1",
   "description": "Common code quality configuration files",
   "scripts": {
@@ -7,18 +7,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pricepaiddata/code-quality.git"
+    "url": "git+https://github.com/pricepaiddata/pricepaiddata-code-quality.git"
   },
   "keywords": [
+    "price",
+    "paid",
+    "data",
     "code",
     "quality"
   ],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pricepaiddata/code-quality/issues"
+    "url": "https://github.com/pricepaiddata/pricepaiddata-code-quality/issues"
   },
-  "homepage": "https://github.com/pricepaiddata/code-quality#readme",
+  "homepage": "https://github.com/pricepaiddata/pricepaiddata-code-quality#readme",
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
