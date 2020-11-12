@@ -11,13 +11,13 @@ module.exports = {
     printWidth: 145,
     proseWrap: 'preserve',
     quoteProps: 'as-needed',
-    rangeStart: 0,
     rangeEnd: Infinity,
+    rangeStart: 0,
     requirePragma: false,
     semi: true,
     singleQuote: true,
     tabWidth: 4,
     trailingComma: 'all',
     useTabs: false,
-    vueIndentScriptAndStyle: false
+    vueIndentScriptAndStyle: false,
 };
