@@ -1,6 +1,6 @@
 {
   "name": "pricepaiddata-code-quality",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Common code quality configuration files",
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
