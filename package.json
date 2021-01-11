@@ -38,7 +38,8 @@
   },
   "files": [
     "/commitlint-base.js",
-    "/eslint-base.json",
+    "/eslint-node.json",
+    "/eslint-react.json",
     "/husky-base.js",
     "/prettier-base.js",
     "/tsconfig-base.json"
