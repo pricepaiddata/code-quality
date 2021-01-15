@@ -5,6 +5,9 @@
     "plugin:prettier/recommended",
     "prettier/@typescript-eslint"
   ],
+  "globals": {
+    "module": true
+  },
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaVersion": 6
