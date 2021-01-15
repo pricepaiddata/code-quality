@@ -12,6 +12,14 @@
   "parserOptions": {
     "ecmaVersion": 6
   },
+  "overrides": [
+    {
+      "files": ["*.json"],
+      "rules": {
+        "no-unused-expressions": 0
+      }
+    }
+  ],
   "plugins": [
     "@typescript-eslint",
     "import",
