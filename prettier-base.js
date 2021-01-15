@@ -8,6 +8,12 @@ module.exports = {
     insertPragma: false,
     jsxBracketSameLine: true,
     jsxSingleQuote: false,
+    overrides: [
+        {
+            files: ['*.json', '.prettierrc', '.eslintrc'],
+            options: { parser: 'json' },
+        },
+    ],
     printWidth: 145,
     proseWrap: 'preserve',
     quoteProps: 'as-needed',
