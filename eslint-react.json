@@ -3,10 +3,7 @@
     "browser": true
   },
   "extends": [
-    "./eslint-base.json",
-    "react-app"
-  ],
-  "plugins": [
-    "react"
+    "react-app",
+    "./eslint-base.json"
   ]
 }
